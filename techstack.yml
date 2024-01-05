@@ -2,7 +2,7 @@ repo_name: MrPhoniex/gpu-groth16-prover-3x
 report_id: 63119db3d9a8b192243788dec3d88029
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-21T07:26:41+00:00'
+timestamp: '2024-01-05T08:19:22+00:00'
 requested_by: o1brad
 provider: github
 branch: master
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4934/default_71f18bbdc61fb88cefb66415bb55dc6f1e60e5ec.png
+  detection_source_url: https://github.com/MrPhoniex/gpu-groth16-prover-3x
   detection_source: Repo Metadata
 - name: C lang
   description: One of the most widely used programming languages of all time
@@ -25,6 +26,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/MrPhoniex/gpu-groth16-prover-3x
   detection_source: Repo Metadata
 - name: C++
   description: Has imperative, object-oriented and generic programming features, while
@@ -35,6 +37,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/MrPhoniex/gpu-groth16-prover-3x
   detection_source: Repo Metadata
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -45,6 +48,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/MrPhoniex/gpu-groth16-prover-3x
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -55,6 +59,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/MrPhoniex/gpu-groth16-prover-3x
   detection_source: Repo Metadata
 - name: CMake
   description: 'An open-source system that manages the build process '
@@ -64,6 +69,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/MrPhoniex/gpu-groth16-prover-3x
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -73,6 +79,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/MrPhoniex/gpu-groth16-prover-3x
   detection_source: Repo Metadata
 - name: Travis CI
   description: A hosted continuous integration service for open source and private
@@ -83,6 +90,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/MrPhoniex/gpu-groth16-prover-3x/blob/master/depends/gtest/.travis.yml
   detection_source: depends/gtest/.travis.yml
   last_updated_by: Corey Richardson
   last_updated_on: 2019-07-03 18:10:20.000000000 Z
@@ -95,6 +103,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/MrPhoniex/gpu-groth16-prover-3x/blob/master/depends/ate-pairing/ate.sln
   detection_source: depends/ate-pairing/ate.sln
   last_updated_by: Corey Richardson
   last_updated_on: 2019-07-03 18:10:20.000000000 Z
@@ -106,6 +115,7 @@ tools:
   category: Application Utilities
   sub_category: Machine Learning Tools
   image_url: https://img.stackshare.io/service/2836/LUOWehvo_400x400.jpeg
+  detection_source_url: https://github.com/MrPhoniex/gpu-groth16-prover-3x
   detection_source: Repo Metadata
 - name: LangChain
   description: Build AI apps with LLMs through composability
@@ -115,6 +125,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/MrPhoniex/gpu-groth16-prover-3x/blob/master/CMakeLists.txt
   detection_source: CMakeLists.txt
   last_updated_by: Corey Richardson
   last_updated_on: 2019-07-03 18:10:20.000000000 Z
@@ -127,10 +138,12 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/MrPhoniex/gpu-groth16-prover-3x
   detection_source: Repo Metadata
 - name: gnuplot
   website_url: http://www.gnuplot.info/
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4138/no-img-open-source.png
+  detection_source_url: https://github.com/MrPhoniex/gpu-groth16-prover-3x
   detection_source: Repo Metadata
