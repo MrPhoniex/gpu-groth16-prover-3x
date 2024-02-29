@@ -2,7 +2,7 @@ repo_name: MrPhoniex/gpu-groth16-prover-3x
 report_id: 63119db3d9a8b192243788dec3d88029
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:19:22+00:00'
+timestamp: '2024-02-29T19:07:56+00:00'
 requested_by: o1brad
 provider: github
 branch: master
@@ -62,7 +62,7 @@ tools:
   detection_source_url: https://github.com/MrPhoniex/gpu-groth16-prover-3x
   detection_source: Repo Metadata
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
